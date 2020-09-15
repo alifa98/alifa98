@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**alifa98/alifa98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ali Faraji (علی فرجی)
 
-Here are some ideas to get you started:
+### Computer Eng. student at AmirKabir University Of Technology (Tehran Polytechnic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Working at Fanap Telecom
+
+Skills:
+
+![alt](https://img.shields.io/badge/Angular-red?logo=angular&style=for-the-badge "title")
+
+![alt](url "title")
+![alt](url "title")
+![alt](url "title")
+![alt](url "title")
+![alt](url "title")
+![alt](url "title")
+![alt](url "title")
