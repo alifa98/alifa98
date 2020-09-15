@@ -6,6 +6,11 @@
 
 #### Working at Fanap Telecom
 
+Blog : https://01d.ir/
+
+website: https://alifaraji.ir
+
+
 ## Skills:
 
 ### UI:
