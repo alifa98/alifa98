@@ -40,3 +40,19 @@ website: https://alifaraji.ir
   ![svn](https://img.shields.io/badge/svn-olive?logo=subversion&style=for-the-badge "svn")
 
 ![network](https://img.shields.io/badge/network-ff6600?logo=wire&style=for-the-badge "network")
+
+
+
+## STATS
+
+[![Ali's github stats](https://github-readme-stats.vercel.app/api?username=alifa98&show_icons=true&theme=radical&icon_color=FF6600&include_all_commits=true
+)](https://github.com/alifa98/)
+
+[![Ali's github top langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alifa98&layout=compact&theme=radical)](https://github.com/alifa98/)
+
+
+
+
+
+
+
