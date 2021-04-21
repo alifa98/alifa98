@@ -8,7 +8,7 @@
 
 Blog : https://01d.ir/
 
-Full Resume: https://www.linkedin.com/in/alifaraji98/
+Full CV: https://www.linkedin.com/in/alifaraji98/
 
 
 ## Skills:
