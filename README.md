@@ -8,7 +8,7 @@
 
 Blog : https://01d.ir/
 
-website: https://alifaraji.ir
+Full Resume: https://www.linkedin.com/in/alifaraji98/
 
 
 ## Skills:
@@ -22,11 +22,11 @@ website: https://alifaraji.ir
 
 ### DB:
 ![mysql](https://img.shields.io/badge/mysql-gray?logo=mysql&style=for-the-badge "mysql")
-  ![oracle](https://img.shields.io/badge/oracle-blue?logo=oracle&style=for-the-badge "oracle")
+![oracle](https://img.shields.io/badge/oracle-blue?logo=oracle&style=for-the-badge "oracle")
 
 ### Languags & Tchnologies
 ![java](https://img.shields.io/badge/java-659fc9?logo=java&style=for-the-badge "java")
-  ![spring](https://img.shields.io/badge/spring-77a123?logo=spring&style=for-the-badge "spring")
+![spring](https://img.shields.io/badge/spring-77a123?logo=spring&style=for-the-badge "spring")
 
 ![C](https://img.shields.io/badge/c-7a2a56?logo=c&style=for-the-badge "c")
 
@@ -37,7 +37,7 @@ website: https://alifaraji.ir
 ![linux](https://img.shields.io/badge/linux-8612c4?logo=linux&style=for-the-badge "linux")
 
 ![git](https://img.shields.io/badge/git-a38341?logo=mysql&style=for-the-badge "git")
-  ![svn](https://img.shields.io/badge/svn-olive?logo=subversion&style=for-the-badge "svn")
+![svn](https://img.shields.io/badge/svn-olive?logo=subversion&style=for-the-badge "svn")
 
 ![network](https://img.shields.io/badge/network-ff6600?logo=wire&style=for-the-badge "network")
 
