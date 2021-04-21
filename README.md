@@ -1,14 +1,12 @@
-### Hi there 👋
-
 ## Ali Faraji (علی فرجی)
 
 ### Computer Eng. & Mathematics student at AmirKabir University Of Technology (Tehran Polytechnic)
 
 #### Working at Fanap Telecom
 
-Blog : https://01d.ir/
+Blog : [www.01d.ir](https://01d.ir/)
 
-Full CV: https://www.linkedin.com/in/alifaraji98/
+Full CV: [Linked In](https://www.linkedin.com/in/alifaraji98/)
 
 
 ## Skills:
