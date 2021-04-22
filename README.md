@@ -6,7 +6,7 @@
 
 Blog : [www.01d.ir](https://01d.ir/)
 
-Full CV: [Linked In](https://www.linkedin.com/in/alifaraji98/)
+Full CV: [LinkedIn](https://www.linkedin.com/in/alifaraji98/)
 
 
 ## Skills:
@@ -14,9 +14,9 @@ Full CV: [Linked In](https://www.linkedin.com/in/alifaraji98/)
 ### UI:
 
 ![angular](https://img.shields.io/badge/angular-red?logo=angular&style=for-the-badge "angular")
-  ![html](https://img.shields.io/badge/html-orange?logo=html5&style=for-the-badge "html")
-  ![css](https://img.shields.io/badge/css-green?logo=css3&style=for-the-badge "css")
-  ![javascript](https://img.shields.io/badge/javascript-yellow?logo=javascript&style=for-the-badge "javascript")
+![html](https://img.shields.io/badge/html-orange?logo=html5&style=for-the-badge "html")
+![css](https://img.shields.io/badge/css-green?logo=css3&style=for-the-badge "css")
+![javascript](https://img.shields.io/badge/javascript-yellow?logo=javascript&style=for-the-badge "javascript")
 
 ### DB:
 ![mysql](https://img.shields.io/badge/mysql-gray?logo=mysql&style=for-the-badge "mysql")
