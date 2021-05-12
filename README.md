@@ -4,7 +4,9 @@
 
 #### Working at Fanap Telecom
 
-Blog : [www.01d.ir](https://01d.ir/)
+English Blog : [www.blog.alifaraji.ir](https://blog.alifaraji.ir/)
+
+Persian Blog : [www.01d.ir](https://01d.ir/)
 
 Full CV: [LinkedIn](https://www.linkedin.com/in/alifaraji98/)
 
