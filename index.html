@@ -22,9 +22,31 @@
     <div class="ui container">
 
         <header>
+            <div class="ui menu">
+                <span class="header item">
+                    Home Page
+                </span>
+                <a class="item active" title="Home" href="/">
+                    <i class="home icon"></i>
+                    Home
+                </a>
+                <a class="item" title="Contact Me" href="contact.html">
+                    <i class="pencil alternate icon"></i>
+                    Contact Me
+                </a>
+                <a class="item" title="In Progress" href="progress.html">
+                    <i class="cog loading icon"></i>
+                    In Progress
+                </a>
+                <a class="item" title="Links" href="links.html">
+                    <i class="linkify icon"></i>
+                    Links
+                </a>
+            </div>
+
             <div class="ui centered stackable padded grid">
                 <div class="six wide column center aligned">
-                    <img class="ui medium rounded centered image" src="https://avatars.githubusercontent.com/u/31096694">
+                    <img class="ui medium rounded centered image" src="https://avatars.githubusercontent.com/u/31096694" alt="Ali Faraji">
                 </div>
 
                 <div class="ten wide center aligned column" style="align-self: center;">
@@ -238,11 +260,11 @@
 
                     <span class="ui teal ribbon label">Languages</span>
                     <p>
-                        <div class="ui label">Persian <div class="detail">Native/Bilingual</div>
+                        <div class="ui yellow label">Persian <div class="detail">Native/Bilingual</div>
                         </div>
-                        <div class="ui label">Turkish <div class="detail">Native/Bilingual</div>
+                        <div class="ui orange label">Turkish <div class="detail">Native/Bilingual</div>
                         </div>
-                        <div class="ui label">English <div class="detail">IELTS: 7.5 (CEFR Level: C1)</div>
+                        <div class="ui green label">English <div class="detail">IELTS: 7.5 (CEFR Level: C1)</div>
                         </div>
                     </p>
 
@@ -594,7 +616,7 @@
 
         </main>
 
-        <footer class="ui raised segment">
+        <footer class="ui secondary segment">
             <p>
                 <a href="https://api.github.com/users/alifa98/keys" title="Public Keys">Public Keys</a> /
                 <a href="https://github.com/alifa98" title="Ali Faraji's GitHub Profile">GitHub</a> /
@@ -621,7 +643,6 @@
             dataLayer.push(arguments);
         }
         gtag('js', new Date());
-
         gtag('config', 'G-38C85WLXWD');
     </script>
 </body>
