@@ -1,6 +1,6 @@
 function saveEverything() {
 
-    let inputs = document.getElementsByTagName("input");
+    let inputs = document.querySelectorAll('input,textarea');
     let data = {};
     for (const inp of inputs) {
         let id = inp.id;
