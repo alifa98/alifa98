@@ -18,7 +18,9 @@
 
             <div class="two column row">
                 <div class="column">
-                    s
+                    Date:
+                    <div class="ui input"> <input id="mydate" type="date" placeholder="Date"> </div>
+
                 </div>
             </div>
 
@@ -29,9 +31,9 @@
                         <div class="header">Top Priorities</div>
                     </div>
                     <div class="content">
-                        <div class="ui action input"> <input id="p1" type="text" placeholder="#1"><button class="ui icon button"> <i class="check icon"></i> </button> </div>
-                        <div class="ui action input"> <input id="p2" type="text" placeholder="#2"><button class="ui icon button"> <i class="check icon"></i> </button> </div>
-                        <div class="ui action input"> <input id="p3" type="text" placeholder="#3"><button class="ui icon button"> <i class="check icon"></i> </button> </div>
+                        <div class="ui fluid input"> <input id="pr1" type="text" placeholder="#1"> </div>
+                        <div class="ui fluid input"> <input id="pr2" type="text" placeholder="#2"> </div>
+                        <div class="ui fluid input"> <input id="pr3" type="text" placeholder="#3"> </div>
                     </div>
                 </div>
 
@@ -44,19 +46,31 @@
                             <div class="field">
                                 <textarea></textarea>
                             </div>
-                            <div class="ui vertical animated blue button" tabindex="0">
-                                <div class="hidden content">Save</div>
-                                <div class="visible content">
-                                    <i class="check icon"></i>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
 
             </div>
             <div class="wide column">
-                dd
+
+                <table class="ui basic table">
+                    <thead>
+                        <tr>
+                            <th class="collapsing">Hour</th>
+                            <th>:00</th>
+                            <th>:30</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <script>
+                            for (i = 7; i < 24; i++) {
+                                document.write("<tr><td class='collapsing'>" + i + "</td><td><div class='ui fluid input'><input id='h" + i + "m00' type='text' placeholder='Task " + i +
+                                    ":00'></div></td><td><div class='ui fluid input'><input id='h" + i + "m30' type='text' placeholder='Task " + i + ":30'></div></td></tr>");
+                            }
+                        </script>
+
+                    </tbody>
+                </table>
 
             </div>
         </div>
