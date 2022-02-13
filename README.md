@@ -1,13 +1,6 @@
-## Ali Faraji (علی فرجی)
+## 👋 Hi there, I am Ali
 
-### Student
-
-
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifa98&show_icons=true&theme=dark&icon_color=FF6600&count_private=true)
-
-![Ali's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alifa98&langs_count=6&theme=dark)
-
-```javascript
+```json
 {
   "firstName": "Ali",
   "lastName": "Faraji",
@@ -33,3 +26,10 @@
   ]
 }
 ```
+
+
+
+
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifa98&show_icons=true&theme=dark&icon_color=FF6600&count_private=true)
+
+![Ali's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alifa98&langs_count=6&theme=dark)
