@@ -6,6 +6,7 @@
   "lastName": "Faraji",
   "website": "alifaraji.ir",
   "status": "Student",
+  "institution": "AUT",
   "blogs": [
     "01d.ir",
     "blog.alifaraji.ir"
