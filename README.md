@@ -1,13 +1,12 @@
-## Ali Faraji (علی فرجی)
+## 👋 Hi there, I am Ali
 
-### Computer Eng. & Mathematics student at AmirKabir University Of Technology (Tehran Polytechnic)
-
-```javascript
+```json
 {
   "firstName": "Ali",
   "lastName": "Faraji",
   "website": "alifaraji.ir",
   "status": "Student",
+  "institution": "AUT",
   "blogs": [
     "01d.ir",
     "blog.alifaraji.ir"
@@ -16,6 +15,7 @@
     "AI",
     "Math",
     "NLP",
+    "Graph",
     "ML",
     "Security",
     "Open Source",
@@ -28,3 +28,10 @@
   ]
 }
 ```
+
+
+
+
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifa98&show_icons=true&theme=dark&icon_color=FF6600&count_private=true)
+
+![Ali's Languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alifa98&langs_count=6&theme=dark)
