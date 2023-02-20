@@ -9,7 +9,7 @@
   "institution": "York University",
   "blogs": [
     "01d.ir",
-    "blog.alifaraji.ir"
+    "blog.alifaraji.ir",
   ],
   "interests": [
     "AI",
@@ -24,8 +24,8 @@
     "Jogging",
     "Bicycle",
     "Learning",
-    "Teaching"
-  ]
+    "Teaching",
+  ],
 }
 ```
 
